@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  
+
+}
+
+.title {
+  color: cornflowerblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.del-btn {
+
+  background-color: red;
+  height: 50px;
+  width: 300px;
+  color: white;
+
+}

@@ -1,0 +1,23 @@
+.input{
+    background-color: cornflowerblue;
+    height: 40px;
+    width: 400px;
+    margin: 10px;
+    color:white
+}
+.add-btn{
+background-color: cornflowerblue;
+height: 45px;
+width: 70px;
+border-radius: 10%;
+color: white;
+cursor: pointer;
+}
+.back-btn{
+background-color: cornflowerblue;
+height: 45px;
+width: 70px;
+border-radius: 10%;
+color: white;
+cursor: pointer;
+}
